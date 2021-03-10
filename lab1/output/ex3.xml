@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="ex4.xsl"?>
+<data>
+  <article description="Xiaomi Mi 11 8/256GB Horizon Blue">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi_mi_11_horizon_blue_1_1.jpg</image>
+    <price>26 999</price>
+  </article>
+  <article description="Xiaomi Redmi Note 9 Pro 6/128GB Interstellar Grey">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/j/6/j6b-__1.jpg</image>
+    <price>7 999</price>
+  </article>
+  <article description="Samsung Galaxy S21 Ultra 12/128GB Phantom Black (SM-G998BZKDSEK)">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/s/m/sm-g998_s21ultra_phantom_black_back_201110_.jpg</image>
+    <price>37 999</price>
+  </article>
+  <article description="Poco X3 6/128GB Shadow Gray">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/j/2/j20c-grey-__result_2_1.jpg</image>
+    <price>7 499</price>
+  </article>
+  <article description="Samsung Galaxy S21 8/128GB Phantom Violet (SM-G991BZVDSEK)">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/s/m/sm-g990_g991_s21_phantom_violet_back_201110f.jpg</image>
+    <price>26 999</price>
+  </article>
+  <article description="Xiaomi Redmi Note 9 4/128GB Forest Green">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/f/i/file_1738.jpg</image>
+    <price>5 799</price>
+  </article>
+  <article description="Poco M3 4/64GB Blue">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/j/1/j19c-b_2dsf.jpg</image>
+    <price>4 499</price>
+  </article>
+  <article description="Apple iPhone 12 Pro Max 256GB Pacific Blue (MGDF3)">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max-blue-hero_4.jpg</image>
+    <price>47 999</price>
+  </article>
+  <article description="Samsung Galaxy A51 4/64GB Black(SM-A515FZKUSEK)">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/f/i/file_1493_1.jpg</image>
+    <price>7 999</price>
+  </article>
+  <article description="Samsung Galaxy A12 3/32GB Blue (SM-A125FZBUSEK)">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/2/4/24562456_result.jpg</image>
+    <price>4 999</price>
+  </article>
+  <article description="Xiaomi Mi 10T Pro 8/256GB Lunar Silver">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/j/3/j3a1d4_11_2_1.jpg</image>
+    <price>16 999</price>
+  </article>
+  <article description="Apple iPhone 11 64GB Black (MHDA3) Slim Box">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/4/8/48559a6ce9a4251b3bd0f4a6fde96a9e_1_1.jpg</image>
+    <price>23 999</price>
+  </article>
+  <article description="Xiaomi Redmi 9A 2/32GB Granite Gray">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/x/i/xim3242.jpg</image>
+    <price>2 999</price>
+  </article>
+  <article description="Apple iPhone 12 64GB Black (MGJ53)">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-mini-black-select-2020_3.jpg</image>
+    <price>31 999</price>
+  </article>
+  <article description="Xiaomi Mi 10T 8/128GB Cosmic Black">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/4/_/4__14_8.jpg</image>
+    <price>14 999</price>
+  </article>
+  <article description="Apple iPhone SE 64GB White (MHGQ3) Slim Box">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-se-white-select-2020_geo_emea_1.jpg</image>
+    <price>16 499</price>
+  </article>
+  <article description="Xiaomi Mi 10T Lite 6/128GB Atlantic Blue">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/j/1/j16c9f_1c_1_1.jpg</image>
+    <price>9 499</price>
+  </article>
+  <article description="Apple iPhone 12 Pro 128GB Graphite (MGMK3)">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max-graphite-hero_2.jpg</image>
+    <price>41 999</price>
+  </article>
+  <article description="Xiaomi Redmi 9 4/64GB Carbon Grey">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/j/1/j12ac8_1.jpg</image>
+    <price>4 599</price>
+  </article>
+  <article description="ZTE BLADE A7S 2020 3/64 GB Blue">
+    <image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/z/t/zte_blade_a7s_11.jpg</image>
+    <price>3 999</price>
+  </article>
+</data>
